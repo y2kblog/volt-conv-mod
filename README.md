@@ -106,7 +106,21 @@ I<sup>2</sup>CやUART等の信号電圧と電源電圧を変換するモジュ�
 - 外形寸法：W32 x D40 x H11.5 mm
 
 
-<!-- ## 資料
+## 資料
 
-- サポートページ
-- 回路図 -->
+### 回路図
+
+<img src="/img/schematic_latest.png" width="500px">  
+
+PDFファイル：<a href="https://github.com/y2kblog/volt-conv-mod/raw/master/resources/schematic_latest.pdf" >schematic.pdf</a>  
+
+### 外形寸法
+
+<img src="/img/dimension.png" width="350px">  
+
+DXFファイル：<a href="https://github.com/y2kblog/volt-conv-mod/raw/master/resources/volt_conv_mod_dxf_latest.zip" download="">volt_conv_mod_dxf.zip</a>  
+
+### 3D CADデータ
+
+STEPファイル：<a href="https://github.com/y2kblog/volt-conv-mod/raw/master/resources/volt_conv_mod_step_latest.zip" download="">volt_conv_mod_step.zip</a>  
+
