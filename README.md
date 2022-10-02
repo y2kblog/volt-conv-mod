@@ -59,9 +59,9 @@ I<sup>2</sup>CやUART等の信号電圧と電源電圧を変換するモジュ�
 </table>
 
 
-<!-- ## 販売  
-[スイッチサイエンス委託販売ページ](https://www.switch-science.com/products/xxxx/)  
-※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。   -->
+## 販売  
+[スイッチサイエンス委託販売ページ](https://www.switch-science.com/products/8434/)  
+※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。  
 
 
 ## 各部の名称
