@@ -70,6 +70,7 @@ I<sup>2</sup>CやUART等の信号電圧と電源電圧を変換するモジュ�
 
 <img src="/img/overview.jpg" width="400px">  
 
+※ジャンパーピンの色は画像と異なる場合があります。
 
 ## 接続方法
 
